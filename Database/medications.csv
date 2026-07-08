@@ -1,0 +1,1001 @@
+﻿medication_id,medicine_name,dosage_form,manufacturer,check_id ,patient_id 
+m01,Metformin,Injection,Sanofi,c001,p01
+m02,Ibuprofen,Injection,Novartis,c002,p02
+m03,Amoxicillin,Injection,Merck,c003,p03
+m04,Ciprofloxacin,Capsule,Novartis,c004,p04
+m05,Ciprofloxacin,Injection,AbbVie,c005,p05
+m06,Ciprofloxacin,Syrup,GSK,c006,p06
+m07,Ibuprofen,Capsule,Merck,c007,p07
+m08,Aspirin,Tablet,GSK,c008,p08
+m09,Metformin,Capsule,Johnson & Johnson,c009,p09
+m10,Atorvastatin,Injection,Pfizer,c010,p10
+m11,Aspirin,Tablet,AbbVie,c011,p11
+m12,Omeprazole,Tablet,AstraZeneca,c012,p12
+m13,Ciprofloxacin,Syrup,AbbVie,c013,p13
+m14,Omeprazole,Injection,Sanofi,c014,p14
+m15,Ciprofloxacin,Tablet,Merck,c015,p15
+m16,Amoxicillin,Tablet,AstraZeneca,c016,p16
+m17,Aspirin,Syrup,Merck,c017,p17
+m18,Ibuprofen,Tablet,Sanofi,c018,p18
+m19,Ciprofloxacin,Injection,Sanofi,c019,p19
+m20,Aspirin,Tablet,Novartis,c020,p20
+m21,Metformin,Syrup,Pfizer,c021,p21
+m22,Ciprofloxacin,Tablet,GSK,c022,p22
+m23,Paracetamol,Injection,GSK,c023,p23
+m24,Metformin,Injection,Pfizer,c024,p24
+m25,Atorvastatin,Capsule,Merck,c025,p25
+m26,Metformin,Capsule,Sanofi,c026,p26
+m27,Amoxicillin,Tablet,AstraZeneca,c027,p27
+m28,Paracetamol,Capsule,AbbVie,c028,p28
+m29,Ibuprofen,Syrup,Pfizer,c029,p29
+m30,Ciprofloxacin,Injection,Novartis,c030,p30
+m31,Omeprazole,Injection,Pfizer,c031,p31
+m32,Metformin,Capsule,Johnson & Johnson,c032,p32
+m33,Atorvastatin,Tablet,Sanofi,c033,p33
+m34,Metformin,Injection,Merck,c034,p34
+m35,Omeprazole,Syrup,Pfizer,c035,p35
+m36,Paracetamol,Tablet,Merck,c036,p36
+m37,Metformin,Capsule,Novartis,c037,p37
+m38,Ciprofloxacin,Tablet,AbbVie,c038,p38
+m39,Amoxicillin,Tablet,Johnson & Johnson,c039,p39
+m40,Aspirin,Syrup,AstraZeneca,c040,p40
+m41,Aspirin,Tablet,Pfizer,c041,p41
+m42,Paracetamol,Tablet,Novartis,c042,p42
+m43,Ciprofloxacin,Syrup,Pfizer,c043,p43
+m44,Omeprazole,Capsule,Sanofi,c044,p44
+m45,Atorvastatin,Capsule,GSK,c045,p45
+m46,Ibuprofen,Tablet,AbbVie,c046,p46
+m47,Aspirin,Capsule,GSK,c047,p47
+m48,Amoxicillin,Capsule,Johnson & Johnson,c048,p48
+m49,Aspirin,Injection,AstraZeneca,c049,p49
+m50,Ciprofloxacin,Syrup,Sanofi,c050,p50
+m51,Amoxicillin,Syrup,Novartis,c051,p51
+m52,Metformin,Syrup,Merck,c052,p52
+m53,Ciprofloxacin,Syrup,Merck,c053,p53
+m54,Atorvastatin,Capsule,AstraZeneca,c054,p54
+m55,Metformin,Capsule,Pfizer,c055,p55
+m56,Omeprazole,Injection,Novartis,c056,p56
+m57,Omeprazole,Capsule,AstraZeneca,c057,p57
+m58,Metformin,Injection,GSK,c058,p58
+m59,Omeprazole,Tablet,Pfizer,c059,p59
+m60,Ibuprofen,Capsule,Merck,c060,p60
+m61,Ibuprofen,Tablet,Merck,c061,p61
+m62,Amoxicillin,Injection,Merck,c062,p62
+m63,Paracetamol,Syrup,Johnson & Johnson,c063,p63
+m64,Ibuprofen,Capsule,Pfizer,c064,p64
+m65,Ibuprofen,Injection,Sanofi,c065,p65
+m66,Aspirin,Capsule,Johnson & Johnson,c066,p66
+m67,Omeprazole,Injection,Merck,c067,p67
+m68,Ibuprofen,Injection,AbbVie,c068,p68
+m69,Omeprazole,Syrup,GSK,c069,p69
+m70,Aspirin,Injection,Pfizer,c070,p70
+m71,Metformin,Capsule,AstraZeneca,c071,p71
+m72,Ciprofloxacin,Syrup,Pfizer,c072,p72
+m73,Ibuprofen,Injection,Sanofi,c073,p73
+m74,Ciprofloxacin,Injection,Merck,c074,p74
+m75,Metformin,Tablet,Johnson & Johnson,c075,p75
+m76,Ibuprofen,Injection,Pfizer,c076,p76
+m77,Ibuprofen,Tablet,Merck,c077,p77
+m78,Paracetamol,Injection,GSK,c078,p78
+m79,Metformin,Syrup,Johnson & Johnson,c079,p79
+m80,Metformin,Injection,Sanofi,c080,p80
+m81,Ciprofloxacin,Tablet,Merck,c081,p81
+m82,Paracetamol,Tablet,Novartis,c082,p82
+m83,Paracetamol,Syrup,AbbVie,c083,p83
+m84,Ciprofloxacin,Capsule,AstraZeneca,c084,p84
+m85,Amoxicillin,Syrup,AstraZeneca,c085,p85
+m86,Aspirin,Injection,Merck,c086,p86
+m87,Paracetamol,Tablet,Novartis,c087,p87
+m88,Amoxicillin,Injection,Johnson & Johnson,c088,p88
+m89,Omeprazole,Syrup,Merck,c089,p89
+m90,Ciprofloxacin,Injection,AstraZeneca,c090,p90
+m91,Atorvastatin,Injection,Pfizer,c091,p91
+m92,Amoxicillin,Injection,Novartis,c092,p92
+m93,Metformin,Syrup,Merck,c093,p93
+m94,Aspirin,Capsule,Merck,c094,p94
+m95,Ibuprofen,Capsule,Novartis,c095,p95
+m96,Omeprazole,Tablet,Johnson & Johnson,c096,p96
+m97,Omeprazole,Tablet,Merck,c097,p97
+m98,Aspirin,Capsule,Johnson & Johnson,c098,p98
+m99,Ibuprofen,Capsule,Novartis,c099,p99
+m100,Metformin,Syrup,Pfizer,c100,p100
+m101,Aspirin,Syrup,GSK,c101,p101
+m102,Ciprofloxacin,Capsule,Novartis,c102,p102
+m103,Paracetamol,Capsule,Merck,c103,p103
+m104,Aspirin,Capsule,Merck,c104,p104
+m105,Metformin,Capsule,GSK,c105,p105
+m106,Omeprazole,Injection,Merck,c106,p106
+m107,Paracetamol,Capsule,Novartis,c107,p107
+m108,Metformin,Injection,AstraZeneca,c108,p108
+m109,Paracetamol,Tablet,Pfizer,c109,p109
+m110,Ciprofloxacin,Tablet,GSK,c110,p110
+m111,Omeprazole,Syrup,Johnson & Johnson,c111,p111
+m112,Amoxicillin,Syrup,AstraZeneca,c112,p112
+m113,Atorvastatin,Injection,Novartis,c113,p113
+m114,Amoxicillin,Injection,Merck,c114,p114
+m115,Ibuprofen,Syrup,Pfizer,c115,p115
+m116,Ibuprofen,Tablet,Sanofi,c116,p116
+m117,Metformin,Capsule,AbbVie,c117,p117
+m118,Ibuprofen,Syrup,Merck,c118,p118
+m119,Paracetamol,Capsule,AstraZeneca,c119,p119
+m120,Aspirin,Injection,Merck,c120,p120
+m121,Amoxicillin,Capsule,Sanofi,c121,p121
+m122,Atorvastatin,Injection,Pfizer,c122,p122
+m123,Atorvastatin,Tablet,Sanofi,c123,p123
+m124,Atorvastatin,Capsule,Sanofi,c124,p124
+m125,Ibuprofen,Syrup,AstraZeneca,c125,p125
+m126,Ciprofloxacin,Capsule,AstraZeneca,c126,p126
+m127,Ciprofloxacin,Capsule,AstraZeneca,c127,p127
+m128,Atorvastatin,Injection,AstraZeneca,c128,p128
+m129,Paracetamol,Capsule,Sanofi,c129,p129
+m130,Aspirin,Tablet,Pfizer,c130,p130
+m131,Atorvastatin,Tablet,GSK,c131,p131
+m132,Metformin,Capsule,Novartis,c132,p132
+m133,Metformin,Capsule,AbbVie,c133,p133
+m134,Ibuprofen,Syrup,Johnson & Johnson,c134,p134
+m135,Paracetamol,Injection,AstraZeneca,c135,p135
+m136,Ciprofloxacin,Capsule,Sanofi,c136,p136
+m137,Metformin,Injection,AstraZeneca,c137,p137
+m138,Omeprazole,Syrup,AbbVie,c138,p138
+m139,Aspirin,Tablet,Pfizer,c139,p139
+m140,Omeprazole,Injection,Pfizer,c140,p140
+m141,Aspirin,Capsule,Pfizer,c141,p141
+m142,Amoxicillin,Tablet,Pfizer,c142,p142
+m143,Metformin,Tablet,AbbVie,c143,p143
+m144,Metformin,Capsule,GSK,c144,p144
+m145,Ciprofloxacin,Capsule,AbbVie,c145,p145
+m146,Ibuprofen,Capsule,Johnson & Johnson,c146,p146
+m147,Ibuprofen,Tablet,GSK,c147,p147
+m148,Amoxicillin,Syrup,Merck,c148,p148
+m149,Ibuprofen,Syrup,Johnson & Johnson,c149,p149
+m150,Atorvastatin,Injection,GSK,c150,p150
+m151,Paracetamol,Tablet,Johnson & Johnson,c151,p151
+m152,Metformin,Capsule,GSK,c152,p152
+m153,Ibuprofen,Injection,GSK,c153,p153
+m154,Aspirin,Tablet,Pfizer,c154,p154
+m155,Atorvastatin,Syrup,GSK,c155,p155
+m156,Omeprazole,Injection,Merck,c156,p156
+m157,Metformin,Capsule,Sanofi,c157,p157
+m158,Paracetamol,Capsule,Sanofi,c158,p158
+m159,Amoxicillin,Syrup,Pfizer,c159,p159
+m160,Ibuprofen,Tablet,AbbVie,c160,p160
+m161,Paracetamol,Capsule,Novartis,c161,p161
+m162,Omeprazole,Tablet,Pfizer,c162,p162
+m163,Omeprazole,Injection,Pfizer,c163,p163
+m164,Ibuprofen,Injection,AstraZeneca,c164,p164
+m165,Amoxicillin,Injection,Merck,c165,p165
+m166,Omeprazole,Injection,Merck,c166,p166
+m167,Omeprazole,Capsule,Merck,c167,p167
+m168,Amoxicillin,Tablet,Novartis,c168,p168
+m169,Metformin,Tablet,Johnson & Johnson,c169,p169
+m170,Amoxicillin,Injection,Pfizer,c170,p170
+m171,Atorvastatin,Tablet,GSK,c171,p171
+m172,Ciprofloxacin,Injection,AstraZeneca,c172,p172
+m173,Aspirin,Injection,Johnson & Johnson,c173,p173
+m174,Ibuprofen,Injection,Sanofi,c174,p174
+m175,Ibuprofen,Syrup,Novartis,c175,p175
+m176,Ciprofloxacin,Injection,AstraZeneca,c176,p176
+m177,Metformin,Syrup,AbbVie,c177,p177
+m178,Atorvastatin,Injection,Novartis,c178,p178
+m179,Aspirin,Injection,Pfizer,c179,p179
+m180,Atorvastatin,Tablet,Pfizer,c180,p180
+m181,Amoxicillin,Capsule,Novartis,c181,p181
+m182,Atorvastatin,Tablet,AbbVie,c182,p182
+m183,Amoxicillin,Capsule,Novartis,c183,p183
+m184,Ciprofloxacin,Injection,Pfizer,c184,p184
+m185,Metformin,Tablet,AstraZeneca,c185,p185
+m186,Ibuprofen,Capsule,Pfizer,c186,p186
+m187,Aspirin,Injection,Johnson & Johnson,c187,p187
+m188,Atorvastatin,Tablet,Johnson & Johnson,c188,p188
+m189,Amoxicillin,Injection,Merck,c189,p189
+m190,Atorvastatin,Tablet,AstraZeneca,c190,p190
+m191,Ciprofloxacin,Injection,Merck,c191,p191
+m192,Aspirin,Tablet,AstraZeneca,c192,p192
+m193,Paracetamol,Injection,Johnson & Johnson,c193,p193
+m194,Omeprazole,Injection,AstraZeneca,c194,p194
+m195,Atorvastatin,Tablet,Pfizer,c195,p195
+m196,Aspirin,Tablet,AstraZeneca,c196,p196
+m197,Aspirin,Capsule,Merck,c197,p197
+m198,Paracetamol,Injection,Novartis,c198,p198
+m199,Aspirin,Capsule,GSK,c199,p199
+m200,Ciprofloxacin,Syrup,AbbVie,c200,p200
+m201,Aspirin,Injection,AbbVie,c201,p201
+m202,Ibuprofen,Tablet,AbbVie,c202,p202
+m203,Ciprofloxacin,Capsule,Pfizer,c203,p203
+m204,Amoxicillin,Injection,AbbVie,c204,p204
+m205,Atorvastatin,Syrup,Pfizer,c205,p205
+m206,Ciprofloxacin,Tablet,Sanofi,c206,p206
+m207,Ibuprofen,Capsule,GSK,c207,p207
+m208,Atorvastatin,Capsule,AbbVie,c208,p208
+m209,Ibuprofen,Tablet,Merck,c209,p209
+m210,Omeprazole,Syrup,GSK,c210,p210
+m211,Atorvastatin,Injection,Merck,c211,p211
+m212,Paracetamol,Injection,GSK,c212,p212
+m213,Ibuprofen,Syrup,Merck,c213,p213
+m214,Metformin,Syrup,Johnson & Johnson,c214,p214
+m215,Omeprazole,Tablet,Sanofi,c215,p215
+m216,Metformin,Injection,GSK,c216,p216
+m217,Ibuprofen,Capsule,AstraZeneca,c217,p217
+m218,Aspirin,Injection,AstraZeneca,c218,p218
+m219,Metformin,Syrup,AbbVie,c219,p219
+m220,Amoxicillin,Capsule,GSK,c220,p220
+m221,Amoxicillin,Capsule,AbbVie,c221,p221
+m222,Ciprofloxacin,Capsule,AstraZeneca,c222,p222
+m223,Amoxicillin,Injection,Sanofi,c223,p223
+m224,Atorvastatin,Tablet,GSK,c224,p224
+m225,Atorvastatin,Syrup,Novartis,c225,p225
+m226,Amoxicillin,Injection,Merck,c226,p226
+m227,Metformin,Capsule,AstraZeneca,c227,p227
+m228,Aspirin,Syrup,Novartis,c228,p228
+m229,Ciprofloxacin,Capsule,Novartis,c229,p229
+m230,Ibuprofen,Injection,Novartis,c230,p230
+m231,Aspirin,Tablet,GSK,c231,p231
+m232,Ciprofloxacin,Injection,Pfizer,c232,p232
+m233,Atorvastatin,Capsule,AbbVie,c233,p233
+m234,Ciprofloxacin,Injection,Johnson & Johnson,c234,p234
+m235,Metformin,Syrup,Novartis,c235,p235
+m236,Aspirin,Tablet,Johnson & Johnson,c236,p236
+m237,Ciprofloxacin,Tablet,Merck,c237,p237
+m238,Amoxicillin,Capsule,Sanofi,c238,p238
+m239,Aspirin,Injection,Johnson & Johnson,c239,p239
+m240,Omeprazole,Tablet,Merck,c240,p240
+m241,Atorvastatin,Capsule,Merck,c241,p241
+m242,Ibuprofen,Injection,Novartis,c242,p242
+m243,Ciprofloxacin,Syrup,Sanofi,c243,p243
+m244,Ciprofloxacin,Syrup,GSK,c244,p244
+m245,Ibuprofen,Injection,GSK,c245,p245
+m246,Metformin,Syrup,AbbVie,c246,p246
+m247,Aspirin,Injection,AstraZeneca,c247,p247
+m248,Atorvastatin,Injection,AbbVie,c248,p248
+m249,Atorvastatin,Injection,AbbVie,c249,p249
+m250,Ciprofloxacin,Syrup,Sanofi,c250,p250
+m251,Metformin,Syrup,AbbVie,c251,p251
+m252,Amoxicillin,Syrup,Novartis,c252,p252
+m253,Ibuprofen,Injection,Johnson & Johnson,c253,p253
+m254,Amoxicillin,Tablet,Sanofi,c254,p254
+m255,Amoxicillin,Injection,Merck,c255,p255
+m256,Metformin,Injection,AbbVie,c256,p256
+m257,Ibuprofen,Injection,GSK,c257,p257
+m258,Ciprofloxacin,Injection,GSK,c258,p258
+m259,Omeprazole,Tablet,Pfizer,c259,p259
+m260,Aspirin,Syrup,Johnson & Johnson,c260,p260
+m261,Ciprofloxacin,Tablet,Sanofi,c261,p261
+m262,Ciprofloxacin,Injection,Johnson & Johnson,c262,p262
+m263,Atorvastatin,Capsule,Novartis,c263,p263
+m264,Omeprazole,Capsule,Sanofi,c264,p264
+m265,Amoxicillin,Injection,AstraZeneca,c265,p265
+m266,Atorvastatin,Capsule,Johnson & Johnson,c266,p266
+m267,Amoxicillin,Capsule,GSK,c267,p267
+m268,Atorvastatin,Tablet,AstraZeneca,c268,p268
+m269,Ciprofloxacin,Injection,AstraZeneca,c269,p269
+m270,Ibuprofen,Syrup,AstraZeneca,c270,p270
+m271,Ciprofloxacin,Syrup,Pfizer,c271,p271
+m272,Amoxicillin,Injection,GSK,c272,p272
+m273,Paracetamol,Syrup,Merck,c273,p273
+m274,Omeprazole,Injection,Johnson & Johnson,c274,p274
+m275,Ciprofloxacin,Tablet,Pfizer,c275,p275
+m276,Amoxicillin,Syrup,AstraZeneca,c276,p276
+m277,Omeprazole,Injection,Novartis,c277,p277
+m278,Ciprofloxacin,Tablet,Johnson & Johnson,c278,p278
+m279,Ciprofloxacin,Injection,Merck,c279,p279
+m280,Aspirin,Injection,Novartis,c280,p280
+m281,Amoxicillin,Syrup,Johnson & Johnson,c281,p281
+m282,Paracetamol,Syrup,Sanofi,c282,p282
+m283,Amoxicillin,Capsule,Pfizer,c283,p283
+m284,Atorvastatin,Capsule,Johnson & Johnson,c284,p284
+m285,Aspirin,Injection,AstraZeneca,c285,p285
+m286,Ibuprofen,Capsule,Sanofi,c286,p286
+m287,Ibuprofen,Injection,AstraZeneca,c287,p287
+m288,Omeprazole,Injection,Merck,c288,p288
+m289,Aspirin,Injection,Pfizer,c289,p289
+m290,Ciprofloxacin,Syrup,Merck,c290,p290
+m291,Ibuprofen,Syrup,Merck,c291,p291
+m292,Amoxicillin,Syrup,Novartis,c292,p292
+m293,Omeprazole,Syrup,Novartis,c293,p293
+m294,Amoxicillin,Tablet,Johnson & Johnson,c294,p294
+m295,Metformin,Syrup,Johnson & Johnson,c295,p295
+m296,Ibuprofen,Injection,Pfizer,c296,p296
+m297,Aspirin,Injection,Novartis,c297,p297
+m298,Atorvastatin,Injection,Johnson & Johnson,c298,p298
+m299,Ibuprofen,Tablet,AbbVie,c299,p299
+m300,Omeprazole,Capsule,Novartis,c300,p300
+m301,Omeprazole,Injection,AbbVie,c301,p301
+m302,Paracetamol,Capsule,Merck,c302,p302
+m303,Metformin,Tablet,GSK,c303,p303
+m304,Paracetamol,Injection,Sanofi,c304,p304
+m305,Aspirin,Syrup,Johnson & Johnson,c305,p305
+m306,Aspirin,Capsule,GSK,c306,p306
+m307,Metformin,Capsule,GSK,c307,p307
+m308,Metformin,Capsule,AbbVie,c308,p308
+m309,Metformin,Syrup,Pfizer,c309,p309
+m310,Metformin,Tablet,Novartis,c310,p310
+m311,Aspirin,Tablet,Johnson & Johnson,c311,p311
+m312,Metformin,Injection,Merck,c312,p312
+m313,Ciprofloxacin,Capsule,Johnson & Johnson,c313,p313
+m314,Paracetamol,Tablet,Johnson & Johnson,c314,p314
+m315,Atorvastatin,Capsule,Johnson & Johnson,c315,p315
+m316,Aspirin,Tablet,GSK,c316,p316
+m317,Paracetamol,Capsule,Pfizer,c317,p317
+m318,Omeprazole,Syrup,Johnson & Johnson,c318,p318
+m319,Amoxicillin,Tablet,Johnson & Johnson,c319,p319
+m320,Amoxicillin,Syrup,Sanofi,c320,p320
+m321,Metformin,Injection,AstraZeneca,c321,p321
+m322,Omeprazole,Injection,Merck,c322,p322
+m323,Atorvastatin,Tablet,Merck,c323,p323
+m324,Paracetamol,Capsule,Johnson & Johnson,c324,p324
+m325,Ibuprofen,Injection,GSK,c325,p325
+m326,Ibuprofen,Syrup,Merck,c326,p326
+m327,Aspirin,Syrup,Pfizer,c327,p327
+m328,Amoxicillin,Injection,Sanofi,c328,p328
+m329,Aspirin,Injection,Sanofi,c329,p329
+m330,Aspirin,Capsule,GSK,c330,p330
+m331,Ibuprofen,Injection,Pfizer,c331,p331
+m332,Ciprofloxacin,Injection,AstraZeneca,c332,p332
+m333,Omeprazole,Tablet,Sanofi,c333,p333
+m334,Ciprofloxacin,Tablet,Pfizer,c334,p334
+m335,Atorvastatin,Capsule,Novartis,c335,p335
+m336,Ibuprofen,Capsule,Merck,c336,p336
+m337,Atorvastatin,Syrup,Sanofi,c337,p337
+m338,Ibuprofen,Syrup,Novartis,c338,p338
+m339,Ciprofloxacin,Tablet,Merck,c339,p339
+m340,Metformin,Tablet,Sanofi,c340,p340
+m341,Paracetamol,Syrup,Sanofi,c341,p341
+m342,Omeprazole,Syrup,Johnson & Johnson,c342,p342
+m343,Omeprazole,Tablet,Sanofi,c343,p343
+m344,Atorvastatin,Tablet,Johnson & Johnson,c344,p344
+m345,Amoxicillin,Syrup,AstraZeneca,c345,p345
+m346,Amoxicillin,Capsule,Merck,c346,p346
+m347,Aspirin,Injection,Novartis,c347,p347
+m348,Aspirin,Syrup,AstraZeneca,c348,p348
+m349,Amoxicillin,Capsule,Pfizer,c349,p349
+m350,Paracetamol,Syrup,Merck,c350,p350
+m351,Ciprofloxacin,Syrup,Sanofi,c351,p351
+m352,Ibuprofen,Capsule,AstraZeneca,c352,p352
+m353,Paracetamol,Injection,AstraZeneca,c353,p353
+m354,Atorvastatin,Injection,Pfizer,c354,p354
+m355,Ibuprofen,Syrup,Pfizer,c355,p355
+m356,Atorvastatin,Capsule,AstraZeneca,c356,p356
+m357,Atorvastatin,Injection,Pfizer,c357,p357
+m358,Paracetamol,Syrup,Sanofi,c358,p358
+m359,Metformin,Syrup,Merck,c359,p359
+m360,Aspirin,Capsule,Novartis,c360,p360
+m361,Aspirin,Syrup,Novartis,c361,p361
+m362,Ibuprofen,Capsule,Johnson & Johnson,c362,p362
+m363,Metformin,Capsule,Sanofi,c363,p363
+m364,Paracetamol,Injection,Novartis,c364,p364
+m365,Paracetamol,Tablet,AbbVie,c365,p365
+m366,Ciprofloxacin,Capsule,GSK,c366,p366
+m367,Atorvastatin,Capsule,Pfizer,c367,p367
+m368,Omeprazole,Tablet,AbbVie,c368,p368
+m369,Metformin,Tablet,Johnson & Johnson,c369,p369
+m370,Metformin,Injection,Merck,c370,p370
+m371,Atorvastatin,Injection,Pfizer,c371,p371
+m372,Ibuprofen,Injection,AbbVie,c372,p372
+m373,Omeprazole,Syrup,Novartis,c373,p373
+m374,Metformin,Injection,Pfizer,c374,p374
+m375,Paracetamol,Injection,Novartis,c375,p375
+m376,Paracetamol,Tablet,GSK,c376,p376
+m377,Atorvastatin,Injection,AbbVie,c377,p377
+m378,Paracetamol,Injection,Johnson & Johnson,c378,p378
+m379,Aspirin,Syrup,Novartis,c379,p379
+m380,Amoxicillin,Capsule,Sanofi,c380,p380
+m381,Aspirin,Syrup,Merck,c381,p381
+m382,Amoxicillin,Tablet,GSK,c382,p382
+m383,Ibuprofen,Syrup,Pfizer,c383,p383
+m384,Ciprofloxacin,Syrup,AbbVie,c384,p384
+m385,Ibuprofen,Capsule,AstraZeneca,c385,p385
+m386,Ibuprofen,Capsule,GSK,c386,p386
+m387,Amoxicillin,Injection,AbbVie,c387,p387
+m388,Ibuprofen,Tablet,Pfizer,c388,p388
+m389,Ciprofloxacin,Tablet,Sanofi,c389,p389
+m390,Omeprazole,Capsule,AbbVie,c390,p390
+m391,Aspirin,Syrup,Novartis,c391,p391
+m392,Metformin,Capsule,GSK,c392,p392
+m393,Omeprazole,Tablet,Merck,c393,p393
+m394,Amoxicillin,Syrup,Novartis,c394,p394
+m395,Ibuprofen,Injection,GSK,c395,p395
+m396,Aspirin,Injection,GSK,c396,p396
+m397,Aspirin,Injection,Sanofi,c397,p397
+m398,Omeprazole,Capsule,GSK,c398,p398
+m399,Metformin,Injection,GSK,c399,p399
+m400,Ibuprofen,Capsule,Novartis,c400,p400
+m401,Metformin,Tablet,Sanofi,c401,p401
+m402,Aspirin,Tablet,AstraZeneca,c402,p402
+m403,Atorvastatin,Syrup,Pfizer,c403,p403
+m404,Amoxicillin,Capsule,AbbVie,c404,p404
+m405,Atorvastatin,Capsule,AbbVie,c405,p405
+m406,Ibuprofen,Capsule,AbbVie,c406,p406
+m407,Atorvastatin,Capsule,Pfizer,c407,p407
+m408,Atorvastatin,Tablet,GSK,c408,p408
+m409,Ciprofloxacin,Syrup,Sanofi,c409,p409
+m410,Amoxicillin,Injection,Merck,c410,p410
+m411,Paracetamol,Capsule,AstraZeneca,c411,p411
+m412,Aspirin,Syrup,Merck,c412,p412
+m413,Metformin,Capsule,Merck,c413,p413
+m414,Paracetamol,Injection,Sanofi,c414,p414
+m415,Aspirin,Syrup,Merck,c415,p415
+m416,Ibuprofen,Syrup,Pfizer,c416,p416
+m417,Omeprazole,Tablet,Johnson & Johnson,c417,p417
+m418,Metformin,Tablet,Novartis,c418,p418
+m419,Omeprazole,Syrup,GSK,c419,p419
+m420,Omeprazole,Tablet,AbbVie,c420,p420
+m421,Paracetamol,Tablet,Sanofi,c421,p421
+m422,Ibuprofen,Tablet,Sanofi,c422,p422
+m423,Amoxicillin,Injection,Pfizer,c423,p423
+m424,Omeprazole,Syrup,Novartis,c424,p424
+m425,Ciprofloxacin,Injection,AstraZeneca,c425,p425
+m426,Omeprazole,Tablet,Merck,c426,p426
+m427,Paracetamol,Syrup,Pfizer,c427,p427
+m428,Ciprofloxacin,Syrup,AstraZeneca,c428,p428
+m429,Atorvastatin,Tablet,AstraZeneca,c429,p429
+m430,Ibuprofen,Injection,Pfizer,c430,p430
+m431,Paracetamol,Capsule,Merck,c431,p431
+m432,Ibuprofen,Injection,AstraZeneca,c432,p432
+m433,Ciprofloxacin,Syrup,Novartis,c433,p433
+m434,Ibuprofen,Injection,Johnson & Johnson,c434,p434
+m435,Atorvastatin,Capsule,GSK,c435,p435
+m436,Ibuprofen,Capsule,AbbVie,c436,p436
+m437,Atorvastatin,Capsule,AbbVie,c437,p437
+m438,Amoxicillin,Capsule,Sanofi,c438,p438
+m439,Amoxicillin,Tablet,Sanofi,c439,p439
+m440,Amoxicillin,Tablet,Sanofi,c440,p440
+m441,Atorvastatin,Injection,AstraZeneca,c441,p441
+m442,Aspirin,Syrup,Novartis,c442,p442
+m443,Paracetamol,Injection,Novartis,c443,p443
+m444,Amoxicillin,Injection,Pfizer,c444,p444
+m445,Paracetamol,Injection,Johnson & Johnson,c445,p445
+m446,Amoxicillin,Injection,AstraZeneca,c446,p446
+m447,Metformin,Tablet,Novartis,c447,p447
+m448,Ibuprofen,Tablet,Novartis,c448,p448
+m449,Omeprazole,Tablet,Pfizer,c449,p449
+m450,Amoxicillin,Injection,AstraZeneca,c450,p450
+m451,Ibuprofen,Syrup,Merck,c451,p451
+m452,Ciprofloxacin,Tablet,Merck,c452,p452
+m453,Amoxicillin,Injection,Sanofi,c453,p453
+m454,Omeprazole,Injection,GSK,c454,p454
+m455,Paracetamol,Tablet,AstraZeneca,c455,p455
+m456,Atorvastatin,Capsule,AstraZeneca,c456,p456
+m457,Omeprazole,Syrup,Pfizer,c457,p457
+m458,Amoxicillin,Capsule,Novartis,c458,p458
+m459,Ciprofloxacin,Injection,AstraZeneca,c459,p459
+m460,Ibuprofen,Syrup,AstraZeneca,c460,p460
+m461,Paracetamol,Capsule,Johnson & Johnson,c461,p461
+m462,Atorvastatin,Tablet,Pfizer,c462,p462
+m463,Amoxicillin,Tablet,Novartis,c463,p463
+m464,Ciprofloxacin,Capsule,Johnson & Johnson,c464,p464
+m465,Atorvastatin,Injection,Pfizer,c465,p465
+m466,Atorvastatin,Syrup,Merck,c466,p466
+m467,Omeprazole,Tablet,AstraZeneca,c467,p467
+m468,Paracetamol,Capsule,Pfizer,c468,p468
+m469,Atorvastatin,Injection,Sanofi,c469,p469
+m470,Amoxicillin,Syrup,Sanofi,c470,p470
+m471,Aspirin,Capsule,GSK,c471,p471
+m472,Omeprazole,Tablet,GSK,c472,p472
+m473,Amoxicillin,Capsule,Merck,c473,p473
+m474,Amoxicillin,Tablet,AbbVie,c474,p474
+m475,Amoxicillin,Tablet,Novartis,c475,p475
+m476,Paracetamol,Capsule,AbbVie,c476,p476
+m477,Amoxicillin,Injection,AbbVie,c477,p477
+m478,Amoxicillin,Injection,Novartis,c478,p478
+m479,Paracetamol,Tablet,AbbVie,c479,p479
+m480,Aspirin,Syrup,Sanofi,c480,p480
+m481,Ciprofloxacin,Injection,AbbVie,c481,p481
+m482,Paracetamol,Injection,Pfizer,c482,p482
+m483,Ibuprofen,Tablet,Merck,c483,p483
+m484,Omeprazole,Syrup,AstraZeneca,c484,p484
+m485,Metformin,Tablet,Sanofi,c485,p485
+m486,Amoxicillin,Syrup,AbbVie,c486,p486
+m487,Amoxicillin,Syrup,Sanofi,c487,p487
+m488,Atorvastatin,Capsule,Pfizer,c488,p488
+m489,Ibuprofen,Capsule,GSK,c489,p489
+m490,Amoxicillin,Syrup,AbbVie,c490,p490
+m491,Omeprazole,Capsule,Novartis,c491,p491
+m492,Amoxicillin,Syrup,Johnson & Johnson,c492,p492
+m493,Ciprofloxacin,Capsule,Novartis,c493,p493
+m494,Atorvastatin,Capsule,Johnson & Johnson,c494,p494
+m495,Paracetamol,Capsule,AstraZeneca,c495,p495
+m496,Atorvastatin,Syrup,AstraZeneca,c496,p496
+m497,Ciprofloxacin,Capsule,Sanofi,c497,p497
+m498,Ciprofloxacin,Capsule,GSK,c498,p498
+m499,Atorvastatin,Syrup,GSK,c499,p499
+m500,Paracetamol,Tablet,AbbVie,c500,p500
+m501,Ibuprofen,Injection,Merck,c501,p501
+m502,Atorvastatin,Capsule,Pfizer,c502,p502
+m503,Paracetamol,Injection,Johnson & Johnson,c503,p503
+m504,Aspirin,Capsule,GSK,c504,p504
+m505,Paracetamol,Injection,GSK,c505,p505
+m506,Amoxicillin,Injection,Novartis,c506,p506
+m507,Atorvastatin,Tablet,AstraZeneca,c507,p507
+m508,Ibuprofen,Injection,Sanofi,c508,p508
+m509,Atorvastatin,Capsule,Merck,c509,p509
+m510,Aspirin,Syrup,AbbVie,c510,p510
+m511,Metformin,Injection,Johnson & Johnson,c511,p511
+m512,Aspirin,Syrup,Sanofi,c512,p512
+m513,Amoxicillin,Syrup,Sanofi,c513,p513
+m514,Metformin,Injection,Merck,c514,p514
+m515,Ciprofloxacin,Capsule,AbbVie,c515,p515
+m516,Atorvastatin,Injection,Johnson & Johnson,c516,p516
+m517,Omeprazole,Capsule,Merck,c517,p517
+m518,Atorvastatin,Tablet,Merck,c518,p518
+m519,Ibuprofen,Syrup,GSK,c519,p519
+m520,Ciprofloxacin,Capsule,AbbVie,c520,p520
+m521,Omeprazole,Capsule,Johnson & Johnson,c521,p521
+m522,Omeprazole,Syrup,Merck,c522,p522
+m523,Aspirin,Injection,AstraZeneca,c523,p523
+m524,Aspirin,Capsule,AbbVie,c524,p524
+m525,Metformin,Tablet,Novartis,c525,p525
+m526,Ibuprofen,Tablet,AstraZeneca,c526,p526
+m527,Ciprofloxacin,Tablet,Sanofi,c527,p527
+m528,Paracetamol,Tablet,AbbVie,c528,p528
+m529,Metformin,Tablet,Novartis,c529,p529
+m530,Metformin,Capsule,GSK,c530,p530
+m531,Paracetamol,Tablet,Johnson & Johnson,c531,p531
+m532,Omeprazole,Capsule,AbbVie,c532,p532
+m533,Ibuprofen,Injection,GSK,c533,p533
+m534,Aspirin,Syrup,GSK,c534,p534
+m535,Ciprofloxacin,Injection,AbbVie,c535,p535
+m536,Omeprazole,Tablet,Pfizer,c536,p536
+m537,Paracetamol,Capsule,AstraZeneca,c537,p537
+m538,Omeprazole,Capsule,Merck,c538,p538
+m539,Ibuprofen,Injection,Merck,c539,p539
+m540,Omeprazole,Syrup,Pfizer,c540,p540
+m541,Atorvastatin,Syrup,Sanofi,c541,p541
+m542,Amoxicillin,Tablet,AbbVie,c542,p542
+m543,Ciprofloxacin,Syrup,Johnson & Johnson,c543,p543
+m544,Ibuprofen,Tablet,Johnson & Johnson,c544,p544
+m545,Atorvastatin,Injection,Pfizer,c545,p545
+m546,Aspirin,Syrup,GSK,c546,p546
+m547,Atorvastatin,Syrup,Merck,c547,p547
+m548,Metformin,Capsule,Novartis,c548,p548
+m549,Ibuprofen,Injection,AbbVie,c549,p549
+m550,Metformin,Tablet,Sanofi,c550,p550
+m551,Amoxicillin,Tablet,Johnson & Johnson,c551,p551
+m552,Amoxicillin,Injection,Novartis,c552,p552
+m553,Aspirin,Syrup,Johnson & Johnson,c553,p553
+m554,Paracetamol,Syrup,Johnson & Johnson,c554,p554
+m555,Aspirin,Capsule,Johnson & Johnson,c555,p555
+m556,Ibuprofen,Injection,Merck,c556,p556
+m557,Atorvastatin,Injection,Merck,c557,p557
+m558,Amoxicillin,Tablet,Sanofi,c558,p558
+m559,Ibuprofen,Syrup,AstraZeneca,c559,p559
+m560,Ibuprofen,Tablet,Sanofi,c560,p560
+m561,Ibuprofen,Syrup,Novartis,c561,p561
+m562,Aspirin,Injection,Merck,c562,p562
+m563,Paracetamol,Capsule,Johnson & Johnson,c563,p563
+m564,Amoxicillin,Syrup,Pfizer,c564,p564
+m565,Ibuprofen,Capsule,GSK,c565,p565
+m566,Metformin,Injection,AbbVie,c566,p566
+m567,Omeprazole,Syrup,AbbVie,c567,p567
+m568,Ibuprofen,Tablet,Johnson & Johnson,c568,p568
+m569,Aspirin,Syrup,Pfizer,c569,p569
+m570,Metformin,Capsule,GSK,c570,p570
+m571,Ibuprofen,Capsule,Johnson & Johnson,c571,p571
+m572,Omeprazole,Injection,AbbVie,c572,p572
+m573,Ciprofloxacin,Tablet,Sanofi,c573,p573
+m574,Paracetamol,Syrup,Johnson & Johnson,c574,p574
+m575,Ciprofloxacin,Capsule,Novartis,c575,p575
+m576,Amoxicillin,Tablet,Pfizer,c576,p576
+m577,Atorvastatin,Injection,Sanofi,c577,p577
+m578,Ciprofloxacin,Injection,Pfizer,c578,p578
+m579,Amoxicillin,Syrup,AbbVie,c579,p579
+m580,Omeprazole,Injection,Johnson & Johnson,c580,p580
+m581,Ciprofloxacin,Tablet,Sanofi,c581,p581
+m582,Amoxicillin,Capsule,Merck,c582,p582
+m583,Metformin,Capsule,Novartis,c583,p583
+m584,Amoxicillin,Injection,AstraZeneca,c584,p584
+m585,Amoxicillin,Capsule,AbbVie,c585,p585
+m586,Ciprofloxacin,Capsule,Pfizer,c586,p586
+m587,Omeprazole,Capsule,GSK,c587,p587
+m588,Omeprazole,Injection,GSK,c588,p588
+m589,Metformin,Tablet,Sanofi,c589,p589
+m590,Paracetamol,Tablet,Johnson & Johnson,c590,p590
+m591,Omeprazole,Tablet,AbbVie,c591,p591
+m592,Atorvastatin,Injection,Johnson & Johnson,c592,p592
+m593,Paracetamol,Syrup,Pfizer,c593,p593
+m594,Ciprofloxacin,Syrup,Johnson & Johnson,c594,p594
+m595,Ibuprofen,Capsule,Merck,c595,p595
+m596,Ciprofloxacin,Injection,AbbVie,c596,p596
+m597,Paracetamol,Capsule,AstraZeneca,c597,p597
+m598,Ciprofloxacin,Capsule,AstraZeneca,c598,p598
+m599,Metformin,Injection,AbbVie,c599,p599
+m600,Aspirin,Syrup,Johnson & Johnson,c600,p600
+m601,Paracetamol,Syrup,Novartis,c601,p601
+m602,Omeprazole,Tablet,Merck,c602,p602
+m603,Atorvastatin,Capsule,Pfizer,c603,p603
+m604,Amoxicillin,Injection,AstraZeneca,c604,p604
+m605,Omeprazole,Tablet,Merck,c605,p605
+m606,Aspirin,Injection,Merck,c606,p606
+m607,Ciprofloxacin,Injection,AbbVie,c607,p607
+m608,Aspirin,Syrup,AbbVie,c608,p608
+m609,Atorvastatin,Syrup,Johnson & Johnson,c609,p609
+m610,Paracetamol,Capsule,Novartis,c610,p610
+m611,Aspirin,Tablet,Sanofi,c611,p611
+m612,Omeprazole,Capsule,Sanofi,c612,p612
+m613,Metformin,Syrup,GSK,c613,p613
+m614,Atorvastatin,Injection,AstraZeneca,c614,p614
+m615,Omeprazole,Tablet,GSK,c615,p615
+m616,Aspirin,Tablet,Novartis,c616,p616
+m617,Ciprofloxacin,Tablet,Pfizer,c617,p617
+m618,Metformin,Capsule,Pfizer,c618,p618
+m619,Metformin,Tablet,Johnson & Johnson,c619,p619
+m620,Aspirin,Tablet,Pfizer,c620,p620
+m621,Metformin,Syrup,Pfizer,c621,p621
+m622,Omeprazole,Injection,Pfizer,c622,p622
+m623,Paracetamol,Tablet,Johnson & Johnson,c623,p623
+m624,Atorvastatin,Injection,AbbVie,c624,p624
+m625,Omeprazole,Injection,Merck,c625,p625
+m626,Amoxicillin,Syrup,Pfizer,c626,p626
+m627,Metformin,Injection,Johnson & Johnson,c627,p627
+m628,Aspirin,Tablet,AbbVie,c628,p628
+m629,Aspirin,Syrup,AbbVie,c629,p629
+m630,Metformin,Capsule,Novartis,c630,p630
+m631,Paracetamol,Injection,Pfizer,c631,p631
+m632,Aspirin,Tablet,Pfizer,c632,p632
+m633,Ibuprofen,Syrup,AstraZeneca,c633,p633
+m634,Atorvastatin,Capsule,Merck,c634,p634
+m635,Amoxicillin,Capsule,Johnson & Johnson,c635,p635
+m636,Paracetamol,Capsule,Johnson & Johnson,c636,p636
+m637,Paracetamol,Tablet,AstraZeneca,c637,p637
+m638,Atorvastatin,Capsule,Sanofi,c638,p638
+m639,Ciprofloxacin,Injection,Merck,c639,p639
+m640,Ibuprofen,Capsule,Novartis,c640,p640
+m641,Amoxicillin,Syrup,Novartis,c641,p641
+m642,Amoxicillin,Capsule,AbbVie,c642,p642
+m643,Omeprazole,Injection,Novartis,c643,p643
+m644,Aspirin,Capsule,Sanofi,c644,p644
+m645,Atorvastatin,Injection,Pfizer,c645,p645
+m646,Metformin,Capsule,Sanofi,c646,p646
+m647,Ibuprofen,Tablet,Johnson & Johnson,c647,p647
+m648,Metformin,Injection,Sanofi,c648,p648
+m649,Aspirin,Injection,Johnson & Johnson,c649,p649
+m650,Metformin,Injection,GSK,c650,p650
+m651,Amoxicillin,Syrup,AstraZeneca,c651,p651
+m652,Amoxicillin,Tablet,Sanofi,c652,p652
+m653,Aspirin,Tablet,Merck,c653,p653
+m654,Aspirin,Capsule,Sanofi,c654,p654
+m655,Metformin,Injection,AbbVie,c655,p655
+m656,Aspirin,Injection,GSK,c656,p656
+m657,Atorvastatin,Injection,GSK,c657,p657
+m658,Paracetamol,Capsule,AbbVie,c658,p658
+m659,Amoxicillin,Syrup,Pfizer,c659,p659
+m660,Atorvastatin,Tablet,Johnson & Johnson,c660,p660
+m661,Omeprazole,Capsule,Sanofi,c661,p661
+m662,Metformin,Syrup,Novartis,c662,p662
+m663,Amoxicillin,Syrup,Johnson & Johnson,c663,p663
+m664,Paracetamol,Tablet,AstraZeneca,c664,p664
+m665,Omeprazole,Tablet,AstraZeneca,c665,p665
+m666,Amoxicillin,Tablet,GSK,c666,p666
+m667,Atorvastatin,Capsule,Johnson & Johnson,c667,p667
+m668,Omeprazole,Syrup,Merck,c668,p668
+m669,Ibuprofen,Syrup,Merck,c669,p669
+m670,Omeprazole,Injection,Sanofi,c670,p670
+m671,Metformin,Capsule,GSK,c671,p671
+m672,Ibuprofen,Capsule,AstraZeneca,c672,p672
+m673,Amoxicillin,Syrup,Johnson & Johnson,c673,p673
+m674,Metformin,Injection,Merck,c674,p674
+m675,Atorvastatin,Syrup,GSK,c675,p675
+m676,Amoxicillin,Syrup,AstraZeneca,c676,p676
+m677,Paracetamol,Injection,GSK,c677,p677
+m678,Omeprazole,Capsule,Johnson & Johnson,c678,p678
+m679,Omeprazole,Syrup,Pfizer,c679,p679
+m680,Metformin,Tablet,Pfizer,c680,p680
+m681,Omeprazole,Injection,AstraZeneca,c681,p681
+m682,Aspirin,Tablet,Novartis,c682,p682
+m683,Ibuprofen,Capsule,GSK,c683,p683
+m684,Paracetamol,Capsule,Johnson & Johnson,c684,p684
+m685,Metformin,Capsule,AbbVie,c685,p685
+m686,Ciprofloxacin,Injection,Pfizer,c686,p686
+m687,Ibuprofen,Syrup,AstraZeneca,c687,p687
+m688,Aspirin,Injection,GSK,c688,p688
+m689,Ibuprofen,Syrup,Sanofi,c689,p689
+m690,Ciprofloxacin,Capsule,Sanofi,c690,p690
+m691,Atorvastatin,Capsule,Novartis,c691,p691
+m692,Ciprofloxacin,Capsule,Sanofi,c692,p692
+m693,Ciprofloxacin,Injection,Merck,c693,p693
+m694,Paracetamol,Capsule,GSK,c694,p694
+m695,Amoxicillin,Injection,AstraZeneca,c695,p695
+m696,Paracetamol,Tablet,Johnson & Johnson,c696,p696
+m697,Metformin,Syrup,Sanofi,c697,p697
+m698,Amoxicillin,Injection,Johnson & Johnson,c698,p698
+m699,Metformin,Capsule,AbbVie,c699,p699
+m700,Metformin,Injection,Novartis,c700,p700
+m701,Metformin,Injection,GSK,c701,p701
+m702,Aspirin,Tablet,Novartis,c702,p702
+m703,Atorvastatin,Tablet,Merck,c703,p703
+m704,Paracetamol,Capsule,Johnson & Johnson,c704,p704
+m705,Aspirin,Capsule,GSK,c705,p705
+m706,Aspirin,Tablet,Pfizer,c706,p706
+m707,Metformin,Tablet,Sanofi,c707,p707
+m708,Ibuprofen,Syrup,AbbVie,c708,p708
+m709,Omeprazole,Tablet,Sanofi,c709,p709
+m710,Omeprazole,Injection,Merck,c710,p710
+m711,Amoxicillin,Tablet,Novartis,c711,p711
+m712,Ciprofloxacin,Tablet,Pfizer,c712,p712
+m713,Ciprofloxacin,Tablet,Merck,c713,p713
+m714,Amoxicillin,Capsule,Novartis,c714,p714
+m715,Omeprazole,Tablet,AbbVie,c715,p715
+m716,Ibuprofen,Injection,AstraZeneca,c716,p716
+m717,Amoxicillin,Tablet,Johnson & Johnson,c717,p717
+m718,Aspirin,Capsule,Pfizer,c718,p718
+m719,Atorvastatin,Capsule,Johnson & Johnson,c719,p719
+m720,Atorvastatin,Tablet,Pfizer,c720,p720
+m721,Aspirin,Tablet,AbbVie,c721,p721
+m722,Ciprofloxacin,Tablet,AstraZeneca,c722,p722
+m723,Amoxicillin,Injection,Johnson & Johnson,c723,p723
+m724,Amoxicillin,Capsule,Sanofi,c724,p724
+m725,Aspirin,Capsule,AbbVie,c725,p725
+m726,Amoxicillin,Syrup,Sanofi,c726,p726
+m727,Metformin,Syrup,Pfizer,c727,p727
+m728,Ibuprofen,Capsule,Novartis,c728,p728
+m729,Metformin,Syrup,GSK,c729,p729
+m730,Paracetamol,Capsule,Johnson & Johnson,c730,p730
+m731,Paracetamol,Injection,Sanofi,c731,p731
+m732,Atorvastatin,Tablet,AbbVie,c732,p732
+m733,Amoxicillin,Injection,GSK,c733,p733
+m734,Ciprofloxacin,Syrup,AstraZeneca,c734,p734
+m735,Amoxicillin,Capsule,Johnson & Johnson,c735,p735
+m736,Ibuprofen,Tablet,Pfizer,c736,p736
+m737,Metformin,Capsule,GSK,c737,p737
+m738,Amoxicillin,Syrup,Johnson & Johnson,c738,p738
+m739,Omeprazole,Capsule,GSK,c739,p739
+m740,Ciprofloxacin,Syrup,Merck,c740,p740
+m741,Metformin,Capsule,Novartis,c741,p741
+m742,Amoxicillin,Tablet,Johnson & Johnson,c742,p742
+m743,Amoxicillin,Tablet,AbbVie,c743,p743
+m744,Amoxicillin,Injection,Sanofi,c744,p744
+m745,Atorvastatin,Injection,Sanofi,c745,p745
+m746,Ibuprofen,Capsule,GSK,c746,p746
+m747,Omeprazole,Syrup,Novartis,c747,p747
+m748,Amoxicillin,Syrup,Pfizer,c748,p748
+m749,Atorvastatin,Tablet,Johnson & Johnson,c749,p749
+m750,Atorvastatin,Tablet,GSK,c750,p750
+m751,Paracetamol,Tablet,Pfizer,c751,p751
+m752,Atorvastatin,Syrup,GSK,c752,p752
+m753,Omeprazole,Tablet,Merck,c753,p753
+m754,Ciprofloxacin,Tablet,Merck,c754,p754
+m755,Paracetamol,Injection,AstraZeneca,c755,p755
+m756,Aspirin,Capsule,Johnson & Johnson,c756,p756
+m757,Amoxicillin,Injection,AstraZeneca,c757,p757
+m758,Aspirin,Injection,AbbVie,c758,p758
+m759,Ibuprofen,Capsule,Novartis,c759,p759
+m760,Ciprofloxacin,Tablet,AstraZeneca,c760,p760
+m761,Ciprofloxacin,Injection,GSK,c761,p761
+m762,Paracetamol,Injection,AstraZeneca,c762,p762
+m763,Paracetamol,Tablet,Merck,c763,p763
+m764,Aspirin,Syrup,Sanofi,c764,p764
+m765,Metformin,Capsule,Johnson & Johnson,c765,p765
+m766,Atorvastatin,Capsule,GSK,c766,p766
+m767,Aspirin,Capsule,GSK,c767,p767
+m768,Ciprofloxacin,Syrup,Pfizer,c768,p768
+m769,Ibuprofen,Injection,Merck,c769,p769
+m770,Aspirin,Capsule,GSK,c770,p770
+m771,Amoxicillin,Injection,Novartis,c771,p771
+m772,Omeprazole,Tablet,Merck,c772,p772
+m773,Ibuprofen,Syrup,Novartis,c773,p773
+m774,Aspirin,Tablet,AbbVie,c774,p774
+m775,Amoxicillin,Syrup,Sanofi,c775,p775
+m776,Omeprazole,Tablet,Pfizer,c776,p776
+m777,Amoxicillin,Capsule,Sanofi,c777,p777
+m778,Ibuprofen,Injection,AbbVie,c778,p778
+m779,Metformin,Capsule,GSK,c779,p779
+m780,Ciprofloxacin,Injection,Merck,c780,p780
+m781,Omeprazole,Capsule,Johnson & Johnson,c781,p781
+m782,Amoxicillin,Capsule,Sanofi,c782,p782
+m783,Paracetamol,Tablet,Novartis,c783,p783
+m784,Aspirin,Tablet,GSK,c784,p784
+m785,Aspirin,Injection,Johnson & Johnson,c785,p785
+m786,Paracetamol,Syrup,AstraZeneca,c786,p786
+m787,Ciprofloxacin,Injection,Pfizer,c787,p787
+m788,Paracetamol,Capsule,Johnson & Johnson,c788,p788
+m789,Ibuprofen,Injection,Novartis,c789,p789
+m790,Aspirin,Tablet,Sanofi,c790,p790
+m791,Aspirin,Capsule,AstraZeneca,c791,p791
+m792,Metformin,Capsule,GSK,c792,p792
+m793,Aspirin,Tablet,Merck,c793,p793
+m794,Omeprazole,Injection,AbbVie,c794,p794
+m795,Atorvastatin,Capsule,AstraZeneca,c795,p795
+m796,Ciprofloxacin,Tablet,Pfizer,c796,p796
+m797,Atorvastatin,Tablet,Pfizer,c797,p797
+m798,Amoxicillin,Tablet,Merck,c798,p798
+m799,Ciprofloxacin,Syrup,Johnson & Johnson,c799,p799
+m800,Aspirin,Tablet,Pfizer,c800,p800
+m801,Aspirin,Capsule,Pfizer,c801,p801
+m802,Atorvastatin,Injection,Sanofi,c802,p802
+m803,Metformin,Syrup,AbbVie,c803,p803
+m804,Amoxicillin,Tablet,Novartis,c804,p804
+m805,Omeprazole,Injection,Pfizer,c805,p805
+m806,Ciprofloxacin,Injection,Sanofi,c806,p806
+m807,Aspirin,Capsule,Merck,c807,p807
+m808,Aspirin,Capsule,AstraZeneca,c808,p808
+m809,Aspirin,Capsule,Novartis,c809,p809
+m810,Ciprofloxacin,Syrup,AbbVie,c810,p810
+m811,Omeprazole,Injection,AstraZeneca,c811,p811
+m812,Aspirin,Injection,Merck,c812,p812
+m813,Ibuprofen,Syrup,Johnson & Johnson,c813,p813
+m814,Paracetamol,Capsule,Pfizer,c814,p814
+m815,Metformin,Syrup,Sanofi,c815,p815
+m816,Amoxicillin,Injection,Sanofi,c816,p816
+m817,Atorvastatin,Injection,GSK,c817,p817
+m818,Paracetamol,Syrup,Merck,c818,p818
+m819,Ciprofloxacin,Tablet,Sanofi,c819,p819
+m820,Paracetamol,Injection,AstraZeneca,c820,p820
+m821,Metformin,Capsule,AbbVie,c821,p821
+m822,Ciprofloxacin,Syrup,Pfizer,c822,p822
+m823,Ciprofloxacin,Tablet,AbbVie,c823,p823
+m824,Ibuprofen,Tablet,Pfizer,c824,p824
+m825,Omeprazole,Tablet,AbbVie,c825,p825
+m826,Aspirin,Syrup,Novartis,c826,p826
+m827,Amoxicillin,Capsule,Novartis,c827,p827
+m828,Omeprazole,Injection,Merck,c828,p828
+m829,Ciprofloxacin,Injection,Sanofi,c829,p829
+m830,Amoxicillin,Tablet,AstraZeneca,c830,p830
+m831,Omeprazole,Capsule,Johnson & Johnson,c831,p831
+m832,Amoxicillin,Tablet,GSK,c832,p832
+m833,Ibuprofen,Injection,Johnson & Johnson,c833,p833
+m834,Ciprofloxacin,Capsule,Sanofi,c834,p834
+m835,Metformin,Injection,Johnson & Johnson,c835,p835
+m836,Ciprofloxacin,Syrup,Merck,c836,p836
+m837,Ibuprofen,Tablet,GSK,c837,p837
+m838,Atorvastatin,Injection,Sanofi,c838,p838
+m839,Paracetamol,Capsule,AbbVie,c839,p839
+m840,Atorvastatin,Tablet,Novartis,c840,p840
+m841,Atorvastatin,Injection,AstraZeneca,c841,p841
+m842,Metformin,Tablet,AstraZeneca,c842,p842
+m843,Ciprofloxacin,Syrup,AstraZeneca,c843,p843
+m844,Atorvastatin,Injection,Merck,c844,p844
+m845,Paracetamol,Tablet,Johnson & Johnson,c845,p845
+m846,Metformin,Injection,AbbVie,c846,p846
+m847,Aspirin,Syrup,Johnson & Johnson,c847,p847
+m848,Paracetamol,Injection,GSK,c848,p848
+m849,Paracetamol,Syrup,AstraZeneca,c849,p849
+m850,Amoxicillin,Tablet,AstraZeneca,c850,p850
+m851,Amoxicillin,Injection,Merck,c851,p851
+m852,Atorvastatin,Capsule,GSK,c852,p852
+m853,Omeprazole,Tablet,Novartis,c853,p853
+m854,Atorvastatin,Capsule,AbbVie,c854,p854
+m855,Omeprazole,Syrup,GSK,c855,p855
+m856,Ciprofloxacin,Injection,Novartis,c856,p856
+m857,Metformin,Syrup,Novartis,c857,p857
+m858,Omeprazole,Capsule,Pfizer,c858,p858
+m859,Ciprofloxacin,Tablet,Sanofi,c859,p859
+m860,Atorvastatin,Capsule,Merck,c860,p860
+m861,Omeprazole,Syrup,Merck,c861,p861
+m862,Aspirin,Syrup,Merck,c862,p862
+m863,Aspirin,Syrup,Sanofi,c863,p863
+m864,Omeprazole,Injection,GSK,c864,p864
+m865,Paracetamol,Syrup,Johnson & Johnson,c865,p865
+m866,Paracetamol,Syrup,GSK,c866,p866
+m867,Ibuprofen,Injection,AstraZeneca,c867,p867
+m868,Paracetamol,Tablet,AstraZeneca,c868,p868
+m869,Metformin,Capsule,Johnson & Johnson,c869,p869
+m870,Ciprofloxacin,Capsule,GSK,c870,p870
+m871,Ciprofloxacin,Syrup,Sanofi,c871,p871
+m872,Paracetamol,Capsule,AbbVie,c872,p872
+m873,Aspirin,Syrup,GSK,c873,p873
+m874,Omeprazole,Syrup,AstraZeneca,c874,p874
+m875,Paracetamol,Injection,AbbVie,c875,p875
+m876,Metformin,Syrup,AstraZeneca,c876,p876
+m877,Paracetamol,Injection,AbbVie,c877,p877
+m878,Ciprofloxacin,Syrup,Pfizer,c878,p878
+m879,Ciprofloxacin,Injection,Johnson & Johnson,c879,p879
+m880,Omeprazole,Tablet,Pfizer,c880,p880
+m881,Atorvastatin,Capsule,AbbVie,c881,p881
+m882,Amoxicillin,Syrup,GSK,c882,p882
+m883,Amoxicillin,Tablet,AbbVie,c883,p883
+m884,Metformin,Capsule,GSK,c884,p884
+m885,Amoxicillin,Capsule,Merck,c885,p885
+m886,Atorvastatin,Tablet,Sanofi,c886,p886
+m887,Metformin,Capsule,GSK,c887,p887
+m888,Omeprazole,Syrup,Pfizer,c888,p888
+m889,Paracetamol,Injection,AstraZeneca,c889,p889
+m890,Ciprofloxacin,Capsule,Johnson & Johnson,c890,p890
+m891,Atorvastatin,Capsule,Novartis,c891,p891
+m892,Ibuprofen,Capsule,GSK,c892,p892
+m893,Aspirin,Capsule,AstraZeneca,c893,p893
+m894,Metformin,Capsule,AbbVie,c894,p894
+m895,Amoxicillin,Injection,Merck,c895,p895
+m896,Atorvastatin,Injection,Johnson & Johnson,c896,p896
+m897,Paracetamol,Capsule,Merck,c897,p897
+m898,Aspirin,Injection,AbbVie,c898,p898
+m899,Ibuprofen,Injection,Johnson & Johnson,c899,p899
+m900,Metformin,Syrup,Johnson & Johnson,c900,p900
+m901,Ibuprofen,Capsule,Sanofi,c901,p901
+m902,Paracetamol,Capsule,AbbVie,c902,p902
+m903,Omeprazole,Capsule,Novartis,c903,p903
+m904,Paracetamol,Syrup,Pfizer,c904,p904
+m905,Ciprofloxacin,Injection,AbbVie,c905,p905
+m906,Amoxicillin,Injection,Johnson & Johnson,c906,p906
+m907,Omeprazole,Syrup,Johnson & Johnson,c907,p907
+m908,Ibuprofen,Capsule,Novartis,c908,p908
+m909,Ciprofloxacin,Tablet,AbbVie,c909,p909
+m910,Ciprofloxacin,Syrup,AbbVie,c910,p910
+m911,Aspirin,Injection,GSK,c911,p911
+m912,Omeprazole,Capsule,GSK,c912,p912
+m913,Amoxicillin,Injection,AbbVie,c913,p913
+m914,Atorvastatin,Capsule,AbbVie,c914,p914
+m915,Ciprofloxacin,Capsule,AbbVie,c915,p915
+m916,Metformin,Syrup,Johnson & Johnson,c916,p916
+m917,Atorvastatin,Syrup,Pfizer,c917,p917
+m918,Amoxicillin,Syrup,Sanofi,c918,p918
+m919,Amoxicillin,Tablet,Merck,c919,p919
+m920,Atorvastatin,Tablet,Johnson & Johnson,c920,p920
+m921,Aspirin,Tablet,Johnson & Johnson,c921,p921
+m922,Aspirin,Syrup,Johnson & Johnson,c922,p922
+m923,Omeprazole,Tablet,AstraZeneca,c923,p923
+m924,Atorvastatin,Injection,Merck,c924,p924
+m925,Metformin,Injection,AstraZeneca,c925,p925
+m926,Omeprazole,Tablet,Sanofi,c926,p926
+m927,Omeprazole,Tablet,Novartis,c927,p927
+m928,Aspirin,Injection,Merck,c928,p928
+m929,Amoxicillin,Syrup,Pfizer,c929,p929
+m930,Omeprazole,Capsule,Sanofi,c930,p930
+m931,Omeprazole,Tablet,AbbVie,c931,p931
+m932,Atorvastatin,Injection,GSK,c932,p932
+m933,Ciprofloxacin,Syrup,AstraZeneca,c933,p933
+m934,Ibuprofen,Tablet,Pfizer,c934,p934
+m935,Metformin,Capsule,Sanofi,c935,p935
+m936,Aspirin,Syrup,Novartis,c936,p936
+m937,Omeprazole,Injection,AbbVie,c937,p937
+m938,Ciprofloxacin,Capsule,AbbVie,c938,p938
+m939,Ibuprofen,Capsule,Pfizer,c939,p939
+m940,Aspirin,Syrup,AstraZeneca,c940,p940
+m941,Ciprofloxacin,Capsule,GSK,c941,p941
+m942,Metformin,Injection,Novartis,c942,p942
+m943,Ibuprofen,Injection,AbbVie,c943,p943
+m944,Metformin,Capsule,Sanofi,c944,p944
+m945,Ciprofloxacin,Syrup,Johnson & Johnson,c945,p945
+m946,Paracetamol,Syrup,GSK,c946,p946
+m947,Aspirin,Syrup,AstraZeneca,c947,p947
+m948,Aspirin,Syrup,AbbVie,c948,p948
+m949,Omeprazole,Capsule,Novartis,c949,p949
+m950,Metformin,Capsule,Merck,c950,p950
+m951,Metformin,Injection,AbbVie,c951,p951
+m952,Amoxicillin,Tablet,Novartis,c952,p952
+m953,Ibuprofen,Capsule,AstraZeneca,c953,p953
+m954,Amoxicillin,Tablet,Sanofi,c954,p954
+m955,Omeprazole,Capsule,Johnson & Johnson,c955,p955
+m956,Amoxicillin,Tablet,Johnson & Johnson,c956,p956
+m957,Omeprazole,Injection,AstraZeneca,c957,p957
+m958,Ciprofloxacin,Syrup,Merck,c958,p958
+m959,Amoxicillin,Injection,Johnson & Johnson,c959,p959
+m960,Metformin,Tablet,Johnson & Johnson,c960,p960
+m961,Ciprofloxacin,Capsule,AstraZeneca,c961,p961
+m962,Amoxicillin,Capsule,Merck,c962,p962
+m963,Paracetamol,Capsule,AstraZeneca,c963,p963
+m964,Aspirin,Capsule,Novartis,c964,p964
+m965,Ibuprofen,Injection,Sanofi,c965,p965
+m966,Atorvastatin,Syrup,Pfizer,c966,p966
+m967,Aspirin,Syrup,Johnson & Johnson,c967,p967
+m968,Paracetamol,Capsule,Pfizer,c968,p968
+m969,Ciprofloxacin,Syrup,Pfizer,c969,p969
+m970,Amoxicillin,Injection,GSK,c970,p970
+m971,Ibuprofen,Syrup,AstraZeneca,c971,p971
+m972,Atorvastatin,Injection,Novartis,c972,p972
+m973,Paracetamol,Syrup,Merck,c973,p973
+m974,Paracetamol,Tablet,Pfizer,c974,p974
+m975,Paracetamol,Capsule,Novartis,c975,p975
+m976,Amoxicillin,Capsule,GSK,c976,p976
+m977,Aspirin,Capsule,Johnson & Johnson,c977,p977
+m978,Paracetamol,Syrup,Merck,c978,p978
+m979,Ibuprofen,Tablet,Novartis,c979,p979
+m980,Metformin,Capsule,AstraZeneca,c980,p980
+m981,Aspirin,Injection,Pfizer,c981,p981
+m982,Ibuprofen,Tablet,Pfizer,c982,p982
+m983,Atorvastatin,Syrup,Sanofi,c983,p983
+m984,Aspirin,Tablet,Pfizer,c984,p984
+m985,Aspirin,Tablet,Sanofi,c985,p985
+m986,Atorvastatin,Syrup,Sanofi,c986,p986
+m987,Paracetamol,Tablet,AbbVie,c987,p987
+m988,Omeprazole,Capsule,AstraZeneca,c988,p988
+m989,Aspirin,Tablet,AstraZeneca,c989,p989
+m990,Atorvastatin,Capsule,AbbVie,c990,p990
+m991,Atorvastatin,Injection,AstraZeneca,c991,p991
+m992,Omeprazole,Syrup,Johnson & Johnson,c992,p992
+m993,Aspirin,Syrup,Pfizer,c993,p993
+m994,Atorvastatin,Capsule,Johnson & Johnson,c994,p994
+m995,Metformin,Syrup,Johnson & Johnson,c995,p995
+m996,Atorvastatin,Capsule,AstraZeneca,c996,p996
+m997,Metformin,Syrup,Johnson & Johnson,c997,p997
+m998,Amoxicillin,Capsule,Johnson & Johnson,c998,p998
+m999,Ibuprofen,Capsule,Pfizer,c999,p999
+m1000,Atorvastatin,Capsule,AstraZeneca,c1000,p1000
